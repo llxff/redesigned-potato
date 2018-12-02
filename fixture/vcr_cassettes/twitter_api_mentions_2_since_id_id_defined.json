@@ -1,0 +1,51 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": {
+        "httpc_options": [],
+        "http_options": {
+          "autoredirect": "false"
+        }
+      },
+      "request_body": "",
+      "url": "https://api.twitter.com/1.1/search/tweets.json?oauth_signature=bQvkCQ1ijrqbQ%2BEocy7Vft%2B9wWU%3D&oauth_consumer_key=mYnYiRBvpQUdPEumBKWlzybpK&oauth_nonce=kkJOKv7ubuV7HQBzF4m8VAL409879HoV&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1543755032&oauth_version=1.0&q=%40F1&result_type=recent&since_id=1069210912165453825&count=1"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"statuses\":[{\"created_at\":\"Sun Dec 02 12:50:17 +0000 2018\",\"id\":1069212155466170368,\"id_str\":\"1069212155466170368\",\"text\":\"RT @F1: It's evolution rather than revolution for #F1 in 2019...\\n\\nBut there are a few rule changes to know about - here's what to expect \\ud83e\\udd13\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[{\"text\":\"F1\",\"indices\":[50,53]}],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"F1\",\"name\":\"Formula 1\",\"id\":69008563,\"id_str\":\"69008563\",\"indices\":[3,6]}],\"urls\":[]},\"metadata\":{\"iso_language_code\":\"en\",\"result_type\":\"recent\"},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"user\":{\"id\":1030000776,\"id_str\":\"1030000776\",\"name\":\"Vladimir\",\"screen_name\":\"VladimirWizard\",\"location\":\"France, Lyon\",\"description\":\"I love life and good people! Simply Wizard) \\ud83c\\uddeb\\ud83c\\uddf7 \\u041e\\u0431\\u0440\\u0430\\u0437\\u043e\\u0432\\u0430\\u043d\\u0438\\u0435 \\u0432\\u044b\\u0441\\u0448\\u0435\\u0435 \\u043e\\u0447\\u043d\\u043e\\u0435. \\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u0438\\u0437\\u0430\\u0446\\u0438\\u044f \\u0410\\u0432\\u0442\\u043e\\u043c\\u0430\\u0442\\u0438\\u0437\\u0430\\u0446\\u0438\\u044f \\u043f\\u0440\\u043e\\u0438\\u0437\\u0432\\u043e\\u0434\\u0441\\u0442\\u0432 \\u0438 \\u0442\\u0435\\u0445\\u043d\\u043e\\u043b\\u043e\\u0433\\u0438\\u0447\\u0435\\u0441\\u043a\\u0438\\u0445 \\u043f\\u0440\\u043e\\u0446\\u0435\\u0441\\u0441\\u043e\\u0432. \\u041a\\u0432: \\u0418\\u043d\\u0436\\u0435\\u043d\\u0435\\u0440\",\"url\":\"https:\\/\\/t.co\\/riqKvCasTx\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/riqKvCasTx\",\"expanded_url\":\"https:\\/\\/www.facebook.com\\/vladimir.migashkin\",\"display_url\":\"facebook.com\\/vladimir.migas\\u2026\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":262,\"friends_count\":3359,\"listed_count\":1,\"created_at\":\"Sun Dec 23 06:40:33 +0000 2012\",\"favourites_count\":20014,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":2464,\"lang\":\"ru\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"000000\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme10\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme10\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/608686554324807681\\/ZZD5mFzD_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/608686554324807681\\/ZZD5mFzD_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/1030000776\\/1433957404\",\"profile_link_color\":\"3B94D9\",\"profile_sidebar_border_color\":\"000000\",\"profile_sidebar_fill_color\":\"000000\",\"profile_text_color\":\"000000\",\"profile_use_background_image\":false,\"has_extended_profile\":true,\"default_profile\":false,\"default_profile_image\":false,\"following\":null,\"follow_request_sent\":null,\"notifications\":null,\"translator_type\":\"none\"},\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Sat Dec 01 16:31:00 +0000 2018\",\"id\":1068905312143335424,\"id_str\":\"1068905312143335424\",\"text\":\"It's evolution rather than revolution for #F1 in 2019...\\n\\nBut there are a few rule changes to know about - here's w\\u2026 https:\\/\\/t.co\\/M4Hmjg6GGT\",\"truncated\":true,\"entities\":{\"hashtags\":[{\"text\":\"F1\",\"indices\":[42,45]}],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/M4Hmjg6GGT\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1068905312143335424\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"metadata\":{\"iso_language_code\":\"en\",\"result_type\":\"recent\"},\"source\":\"\\u003ca href=\\\"https:\\/\\/studio.twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Media Studio\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"user\":{\"id\":69008563,\"id_str\":\"69008563\",\"name\":\"Formula 1\",\"screen_name\":\"F1\",\"location\":\"Great Britain\",\"description\":\"The Official Formula 1\\u00ae Account. F1 TV is here! Get closer to the action: https:\\/\\/t.co\\/YDZS5McHXM\",\"url\":\"http:\\/\\/t.co\\/7dAxQYnn2K\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/7dAxQYnn2K\",\"expanded_url\":\"http:\\/\\/www.Formula1.com\",\"display_url\":\"Formula1.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/YDZS5McHXM\",\"expanded_url\":\"http:\\/\\/www.F1.com\\/TVAccess\",\"display_url\":\"F1.com\\/TVAccess\",\"indices\":[74,97]}]}},\"protected\":false,\"followers_count\":3739239,\"friends_count\":62,\"listed_count\":21142,\"created_at\":\"Wed Aug 26 15:19:37 +0000 2009\",\"favourites_count\":1339,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":true,\"statuses_count\":45363,\"lang\":\"en\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"000000\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/935100842008547330\\/Jbk9p-TM_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/935100842008547330\\/Jbk9p-TM_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/69008563\\/1521191774\",\"profile_link_color\":\"DC291E\",\"profile_sidebar_border_color\":\"000000\",\"profile_sidebar_fill_color\":\"CCCCCC\",\"profile_text_color\":\"222222\",\"profile_use_background_image\":false,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":null,\"follow_request_sent\":null,\"notifications\":null,\"translator_type\":\"regular\"},\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":2289,\"favorite_count\":8246,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":2289,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"}],\"search_metadata\":{\"completed_in\":0.021,\"max_id\":1069212155466170368,\"max_id_str\":\"1069212155466170368\",\"next_results\":\"?max_id=1069212155466170367&q=%40F1&count=1&include_entities=1&result_type=recent\",\"query\":\"%40F1\",\"refresh_url\":\"?since_id=1069212155466170368&q=%40F1&result_type=recent&include_entities=1\",\"count\":1,\"since_id\":1069210912165453825,\"since_id_str\":\"1069210912165453825\"}}",
+      "headers": {
+        "cache-control": "no-cache, no-store, must-revalidate, pre-check=0, post-check=0",
+        "date": "Sun, 02 Dec 2018 12:50:32 GMT",
+        "pragma": "no-cache",
+        "server": "tsa_o",
+        "content-length": "6586",
+        "content-type": "application/json;charset=utf-8",
+        "expires": "Tue, 31 Mar 1981 05:00:00 GMT",
+        "last-modified": "Sun, 02 Dec 2018 12:50:32 GMT",
+        "content-disposition": "attachment; filename=json.json",
+        "set-cookie": "personalization_id=\"v1_TIKj9vTv8gLHFHiD46AKxQ==\"; Expires=Tue, 01 Dec 2020 12:50:32 GMT; Path=/; Domain=.twitter.com",
+        "status": "200 OK",
+        "strict-transport-security": "max-age=631138519",
+        "x-connection-hash": "7fee9788866c138ac230094b021751b3",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-rate-limit-limit": "450",
+        "x-rate-limit-remaining": "448",
+        "x-rate-limit-reset": "1543755670",
+        "x-response-time": "186",
+        "x-transaction": "00282bf700ed3762",
+        "x-twitter-response-tags": "BouncerCompliant",
+        "x-xss-protection": "1; mode=block; report=https://twitter.com/i/xss_report"
+      },
+      "status_code": [
+        "HTTP/1.1",
+        200,
+        "OK"
+      ],
+      "type": "ok"
+    }
+  }
+]
