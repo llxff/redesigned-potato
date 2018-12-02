@@ -1,0 +1,51 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": {
+        "httpc_options": [],
+        "http_options": {
+          "autoredirect": "false"
+        }
+      },
+      "request_body": "",
+      "url": "https://api.twitter.com/1.1/search/tweets.json?oauth_signature=LVciI8YDD6uQyMiFxPugYfgtO20%3D&oauth_consumer_key=mYnYiRBvpQUdPEumBKWlzybpK&oauth_nonce=FF1OO9eCpLe77KPqeRX8Lq1Se1kXJgOB&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1543758152&oauth_version=1.0&q=%40F1&result_type=recent&since_id=&count=100"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"statuses\":[],\"search_metadata\":{\"completed_in\":0.066,\"max_id\":1069225232932720640,\"max_id_str\":\"1069225232932720640\",\"query\":\"%40F1\",\"refresh_url\":\"?since_id=1069225232932720640&q=%40F1&result_type=recent&include_entities=1\",\"count\":100,\"since_id\":0,\"since_id_str\":\"0\"}}",
+      "headers": {
+        "cache-control": "no-cache, no-store, must-revalidate, pre-check=0, post-check=0",
+        "date": "Sun, 02 Dec 2018 13:42:33 GMT",
+        "pragma": "no-cache",
+        "server": "tsa_o",
+        "content-length": "620680",
+        "content-type": "application/json;charset=utf-8",
+        "expires": "Tue, 31 Mar 1981 05:00:00 GMT",
+        "last-modified": "Sun, 02 Dec 2018 13:42:33 GMT",
+        "content-disposition": "attachment; filename=json.json",
+        "set-cookie": "personalization_id=\"v1_Qc0aos2RS4dkfL4JgXtiww==\"; Expires=Tue, 01 Dec 2020 13:42:33 GMT; Path=/; Domain=.twitter.com",
+        "status": "200 OK",
+        "strict-transport-security": "max-age=631138519",
+        "x-connection-hash": "22a20bf122d0cb9d9effe34d3324d472",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-rate-limit-limit": "450",
+        "x-rate-limit-remaining": "445",
+        "x-rate-limit-reset": "1543758679",
+        "x-response-time": "395",
+        "x-transaction": "000312f800527a3d",
+        "x-twitter-response-tags": "BouncerCompliant",
+        "x-xss-protection": "1; mode=block; report=https://twitter.com/i/xss_report"
+      },
+      "status_code": [
+        "HTTP/1.1",
+        200,
+        "OK"
+      ],
+      "type": "ok"
+    }
+  }
+]
